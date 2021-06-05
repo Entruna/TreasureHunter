@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TreasureHunter2</string>
+    <string name="treasure">Treasure</string>
+    <string name="hunter">Hunter</string>
+    <string name="tart_zkod_si_hely">Tartózkodási hely</string>
+    <string name="sz_less_gi_k_r">Szélességi kör:</string>
+    <string name="hossz_s_gi_k_r">Hosszúsági kör:</string>
+    <string name="kincs_koordin_t_i">Kincs koordinátái</string>
+</resources>
