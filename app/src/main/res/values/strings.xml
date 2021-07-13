@@ -2,8 +2,12 @@
     <string name="app_name">TreasureHunter2</string>
     <string name="treasure">Treasure</string>
     <string name="hunter">Hunter</string>
-    <string name="tart_zkod_si_hely">Tartózkodási hely</string>
-    <string name="sz_less_gi_k_r">Szélességi kör:</string>
-    <string name="hossz_s_gi_k_r">Hosszúsági kör:</string>
-    <string name="kincs_koordin_t_i">Kincs koordinátái</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="treasure_coordinates">Treasure coordinates</string>
+    <string name="go">GO</string>
+    <string name="enter_coordinates">Enter the coordinates of the treasure!</string>
+    <string name="incorrect_format">Coordinate format is incorrect!</string>
+    <string name="not_enough_permission">Not Enough Permission</string>
+    <string name="no_internet">No Internet connection!</string>
 </resources>

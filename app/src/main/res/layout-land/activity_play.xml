@@ -22,7 +22,7 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/kincs_koordin_t_i"
+        android:text="@string/treasure_coordinates"
         android:fontFamily="@font/engr"
         android:textSize="20dp"
         android:layout_marginTop="50dp"
@@ -47,7 +47,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/sz_less_gi_k_r"
+            android:text="@string/latitude"
             android:fontFamily="@font/engr"
             android:textSize="17dp"
             android:textStyle="bold"
@@ -58,7 +58,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/hossz_s_gi_k_r"
+            android:text="@string/longitude"
             android:fontFamily="@font/engr"
             android:textSize="17dp"
             android:textStyle="bold"
@@ -74,7 +74,7 @@
         android:padding="16dp">
 
         <EditText
-            android:id="@+id/latitudec"
+            android:id="@+id/latitudeEditText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -86,7 +86,7 @@
             android:textSize="17dp" />
 
         <EditText
-            android:id="@+id/longitudec"
+            android:id="@+id/longitudeEditText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -117,7 +117,7 @@
         android:layout_marginTop="30dp">
 
         <TextView
-            android:id="@+id/kozelstavol"
+            android:id="@+id/distanceTextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
